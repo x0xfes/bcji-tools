@@ -4,7 +4,8 @@
   "description": "『美少女になってちやほやされて人生イージーモードで生きたい！』の特殊タグを生成するやつ",
   "main": "index.js",
   "scripts": {
-    "dev": "nuxt"
+    "dev": "nuxt",
+    "build": "nuxt build"
   },
   "repository": {
     "type": "git",
