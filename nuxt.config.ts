@@ -13,6 +13,7 @@ const config: NuxtConfig = {
     ]
   },
   router: {
+    base: '/bcji-tools/',
     mode: 'hash'
   }
 };
