@@ -1,0 +1,31 @@
+{
+  "name": "bcji-tools",
+  "version": "1.0.0",
+  "description": "『美少女になってちやほやされて人生イージーモードで生きたい！』の特殊タグを生成するやつ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x0xfes/bcji-tools.git"
+  },
+  "author": "x0xfes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/x0xfes/bcji-tools/issues"
+  },
+  "homepage": "https://github.com/x0xfes/bcji-tools#readme",
+  "dependencies": {
+    "nuxt": "^2.15.6",
+    "nuxt-buefy": "^0.4.7"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.6",
+    "@nuxt/typescript-build": "^2.1.0",
+    "nuxt-property-decorator": "^2.9.1",
+    "pug": "^3.0.2",
+    "pug-loader": "^2.4.0",
+    "pug-plain-loader": "^1.1.0"
+  }
+}
